@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: 16px;
+    background-color: #fcf7e5;
+    color: #4f400b;
+  }
+
+  .jumbotron {
+    background-color: #636b8d;
+    color: white;
+  }
+  
+  .jumbotron .col-sm-5 {
+    text-align: center;
+  }
+  
+  .jumbotron img {
+    width: 300px;
+  }
+
+  .jumbotron img.img-responsive {
+    vertical-align: center;
+    border-width: 4px;
+    border-color: black
+  }

@@ -1,5 +1,4 @@
-# Project Name
-Portfolio
+# Portfolio
 
 ## General info
 This portfolio page is my first independent project for the Epicodus Intro to Programming course. It contains links to a few of my projects done for class so far.

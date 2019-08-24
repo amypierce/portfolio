@@ -21,4 +21,4 @@ Project is: _in progress_
 Created by [amy_pierce@outlook.coml] - feel free to contact me!
 
 ## Copyright
-Copyright 2019 by Amy Pierce
+Copyright MIT 2019 by Amy Pierce

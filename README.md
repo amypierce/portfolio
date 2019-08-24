@@ -11,7 +11,7 @@ This portfolio page is my first independent project for the Epicodus Intro to Pr
 ## Setup
 Clone this repository to your desktop and open the index.html file in a browser or open the GitHub page here: [https://amypierce.github.io/portfolio/]
 
-To-do list:
+## To-do list:
 * Add and update list of projects as new ones are created
 
 ## Status

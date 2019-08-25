@@ -19,12 +19,6 @@ body {
   width: 300px;
 }
 
-.jumbotron img.img-responsive {
-  vertical-align: center;
-  border-width: 2px;
-  border-color: black
-}
-
 .resume {
   font-style: italic;
 }
@@ -43,5 +37,11 @@ a:hover {
 }
 
 img {
-  width: 100px;
+  align: right;
+  vertical-align: center;
+  border-width: 2px;
+  border-color: black;
+  max-width: 100%;
+  height: auto;
 }
+
